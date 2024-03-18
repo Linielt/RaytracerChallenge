@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectileDemo", "RaytracerChallenge\ProjectileDemo.csproj", "{07BDBAC1-77E2-41E7-B411-E44C6B39B8AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{99C7B081-AD42-4169-AD66-B5ED157B5832}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elements", "Elements\Elements.csproj", "{C0201690-3A88-4401-AB67-1C04192D6FAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07BDBAC1-77E2-41E7-B411-E44C6B39B8AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07BDBAC1-77E2-41E7-B411-E44C6B39B8AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07BDBAC1-77E2-41E7-B411-E44C6B39B8AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07BDBAC1-77E2-41E7-B411-E44C6B39B8AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99C7B081-AD42-4169-AD66-B5ED157B5832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C7B081-AD42-4169-AD66-B5ED157B5832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C7B081-AD42-4169-AD66-B5ED157B5832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C7B081-AD42-4169-AD66-B5ED157B5832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0201690-3A88-4401-AB67-1C04192D6FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0201690-3A88-4401-AB67-1C04192D6FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0201690-3A88-4401-AB67-1C04192D6FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0201690-3A88-4401-AB67-1C04192D6FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B951C44-E2AC-442A-A18F-501F613500C8}
+	EndGlobalSection
+EndGlobal
