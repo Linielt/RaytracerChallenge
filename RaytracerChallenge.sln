@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectileDemo", "Raytracer
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "Tests\Tests.csproj", "{99C7B081-AD42-4169-AD66-B5ED157B5832}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLib", "Elements\ClassLib.csproj", "{C0201690-3A88-4401-AB67-1C04192D6FAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLib", "ClassLib\ClassLib.csproj", "{C0201690-3A88-4401-AB67-1C04192D6FAE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

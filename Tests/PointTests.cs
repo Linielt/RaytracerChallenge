@@ -1,6 +1,6 @@
 using ClassLib.Elements;
 
-namespace Tests.Tests
+namespace Tests
 {
     public class PointTests
     {
