@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectileDemo", "RaytracerChallenge\ProjectileDemo.csproj", "{07BDBAC1-77E2-41E7-B411-E44C6B39B8AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectileDemo", "RaytracerChallenge\ProjectileDemo.csproj", "{07BDBAC1-77E2-41E7-B411-E44C6B39B8AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{99C7B081-AD42-4169-AD66-B5ED157B5832}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "Tests\Tests.csproj", "{99C7B081-AD42-4169-AD66-B5ED157B5832}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elements", "Elements\Elements.csproj", "{C0201690-3A88-4401-AB67-1C04192D6FAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLib", "Elements\ClassLib.csproj", "{C0201690-3A88-4401-AB67-1C04192D6FAE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

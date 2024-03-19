@@ -1,4 +1,4 @@
-using RaytracerChallenge.Elements;
+using ClassLib.Elements;
 
 namespace Tests.Tests
 {

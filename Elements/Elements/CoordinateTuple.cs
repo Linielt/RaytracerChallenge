@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RaytracerChallenge.Elements
+namespace ClassLib.Elements
 {
     public class CoordinateTuple
     {

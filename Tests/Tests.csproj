@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Elements\Elements.csproj" />
+    <ProjectReference Include="..\Elements\ClassLib.csproj" />
     <ProjectReference Include="..\RaytracerChallenge\ProjectileDemo.csproj" />
   </ItemGroup>
 
